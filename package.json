@@ -1,0 +1,16 @@
+{
+  "name": "nodeandexpress",
+  "version": "1.0.0",
+  "description": "Node and Express Practise sessions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server-new.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "yarn": "^1.22.22"
+  }
+}
